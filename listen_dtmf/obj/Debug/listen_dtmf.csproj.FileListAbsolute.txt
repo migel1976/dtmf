@@ -25,3 +25,13 @@ c:\project\dtmf\listen_dtmf_framework_4_client\listen_dtmf\obj\Debug\listen_dtmf
 c:\project\dtmf\listen_dtmf_framework_4_client\listen_dtmf\obj\Debug\listen_dtmf.Properties.Resources.resources
 c:\project\dtmf\listen_dtmf_framework_4_client\listen_dtmf\obj\Debug\GenerateResource.read.1.tlog
 c:\project\dtmf\listen_dtmf_framework_4_client\listen_dtmf\obj\Debug\GenerateResource.write.1.tlog
+e:\git\dtmf\listen_dtmf\bin\Debug\listen_dtmf.exe.config
+e:\git\dtmf\listen_dtmf\obj\Debug\listen_dtmf.exe
+e:\git\dtmf\listen_dtmf\obj\Debug\listen_dtmf.pdb
+e:\git\dtmf\listen_dtmf\bin\Debug\listen_dtmf.exe
+e:\git\dtmf\listen_dtmf\bin\Debug\listen_dtmf.pdb
+e:\git\dtmf\listen_dtmf\obj\Debug\ResolveAssemblyReference.cache
+e:\git\dtmf\listen_dtmf\obj\Debug\listen_dtmf.Form1.resources
+e:\git\dtmf\listen_dtmf\obj\Debug\listen_dtmf.Properties.Resources.resources
+e:\git\dtmf\listen_dtmf\obj\Debug\GenerateResource.read.1.tlog
+e:\git\dtmf\listen_dtmf\obj\Debug\GenerateResource.write.1.tlog

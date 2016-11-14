@@ -38,9 +38,9 @@
             // 
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(99, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Open Wav File";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -50,7 +50,7 @@
             this.btnListen.Name = "btnListen";
             this.btnListen.Size = new System.Drawing.Size(75, 23);
             this.btnListen.TabIndex = 1;
-            this.btnListen.Text = "button2";
+            this.btnListen.Text = "Analize";
             this.btnListen.UseVisualStyleBackColor = true;
             this.btnListen.Click += new System.EventHandler(this.btnListen_Click);
             // 
