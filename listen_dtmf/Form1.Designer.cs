@@ -74,6 +74,8 @@
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.btnListen);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
